@@ -10,8 +10,7 @@ $conn = mysql_connect($dbhost, $dbuser, $dbpass);
 if ($conn) {
 	
 }
-else {
-	
-}
+
+//hilangkan else
 
 ?>
